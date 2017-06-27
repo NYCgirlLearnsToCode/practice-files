@@ -1,0 +1,10 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+I have learned <figure> and <figcaption>,<sup>, <hr>. I did not know those existed before taking this udacity course. It hasn't been too difficult. Is there another html tag to format line breaks aside from <p> and <br>? Google suggested css.
+
