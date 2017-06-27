@@ -1,0 +1,11 @@
+What new skills have you learned?
+I have learned <figure> and <figcaption>. I did not know those existed before taking this udacity course.
+
+What has been easy?
+Everything has been okay so far.
+
+What has been difficult?
+It hasn't been too difficult, just formatting the mockup to exact spacing was the most difficult part. I added some css. I didn't get that perfect spacing.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+For the author line, I used the heading tag but the "By" ended up on another line break so I had to think of an alternate to get it on the same line. I couldn't remember how to italicize and bold so I googled it and used that instead so By: author name would be on the same line. 
